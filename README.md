@@ -29,3 +29,5 @@ A template to install my own environment.
 * postman
 * valgrind
 * wireshark
+* postgresql
+* elixir / erlang
