@@ -31,3 +31,4 @@ A template to install my own environment.
 * wireshark
 * postgresql
 * elixir / erlang
+* net-tools
