@@ -10,7 +10,7 @@ A template to install my own environment.
 # Packages
 
 * google-chrome
-* fish (fisher + oh-my-fish + robbyrusell theme)
+* fish (fisher + bass + oh-my-fish + robbyrusell theme)
 * nvm
 * git
 * vlc
