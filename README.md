@@ -4,7 +4,7 @@ A template to install my own environment.
 # How to use it
 
 ```bash
-./setup_environment
+./install_env.sh
 ```
 
 # Packages
