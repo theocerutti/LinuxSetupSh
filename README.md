@@ -11,7 +11,7 @@ A template to install my own environment.
 
 * google-chrome
 * fish (fisher + bass + oh-my-fish + robbyrusell theme)
-* nvm
+* nvm (+yarn)
 * git
 * vlc
 * docker / docker-compose
