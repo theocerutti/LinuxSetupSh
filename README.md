@@ -30,5 +30,6 @@ A template to install my own environment.
 * valgrind
 * wireshark
 * postgresql
-* elixir / erlang
 * net-tools
+* minikube
+* kubernetes
