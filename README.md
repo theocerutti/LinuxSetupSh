@@ -33,3 +33,7 @@ A template to install my own environment.
 * net-tools
 * minikube
 * kubernetes
+* ansible
+* terraform
+* virtualbox
+* vagrant
