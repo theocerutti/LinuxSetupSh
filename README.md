@@ -11,7 +11,9 @@ A template to install my own environment.
 
 * google-chrome
 * fish (fisher + bass + oh-my-fish + robbyrusell theme)
-* nvm (+yarn)
+* java
+* maven
+* nvm
 * git
 * vlc
 * docker / docker-compose
@@ -21,19 +23,17 @@ A template to install my own environment.
 * mongo
 * mariadb
 * htop
-* wireshark
 * flameshot
 * gnome-shell-chrome + workspace matrix
 * discord
 * brew
 * postman
 * valgrind
-* wireshark
 * postgresql
 * net-tools
 * minikube
-* kubernetes
 * ansible
 * terraform
 * virtualbox
 * vagrant
+* flutter
