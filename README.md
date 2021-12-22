@@ -9,6 +9,8 @@ A template to install my own environment.
 
 # Packages
 
+* teams
+* notion-snap
 * google-chrome
 * fish (fisher + bass + oh-my-fish + robbyrusell theme)
 * java
