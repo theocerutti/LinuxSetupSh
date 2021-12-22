@@ -9,33 +9,56 @@ A template to install my own environment.
 
 # Packages
 
+### Utilities
+
 * teams
 * notion-snap
 * google-chrome
-* fish (fisher + bass + oh-my-fish + robbyrusell theme)
-* java
-* maven
-* nvm
-* git
 * vlc
-* docker / docker-compose
-* intellij
-* vscode
-* terminator
-* mongo
-* mariadb
-* htop
 * flameshot
 * gnome-shell-chrome + workspace matrix
 * discord
-* brew
 * postman
+
+### Terminal Tools
+* fish (fisher + bass + oh-my-fish + robbyrusell theme)
+* terminator
+* htop
+
+### DEV
+
+#### Basic
+
 * valgrind
-* postgresql
-* net-tools
+* git
+* docker / docker-compose
+* brew
+
+#### OPS
+
 * minikube
 * ansible
 * terraform
 * virtualbox
 * vagrant
+
+#### IDE/Editor
+
+* intellij
+* vscode
+
+#### Databases
+
+* mongo
+* mariadb
+* postgresql
+
+#### Network
+
+* net-tools
+
+#### Framework/Languages
+* java
+* maven
+* nvm
 * flutter
