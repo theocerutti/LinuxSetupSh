@@ -41,6 +41,8 @@ A template to install my own environment.
 * terraform
 * virtualbox
 * vagrant
+* helm
+* kubernetes
 
 #### IDE/Editor
 
